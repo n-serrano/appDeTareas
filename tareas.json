@@ -1,6 +1,62 @@
 [
   {
-    "titulo": "Armar aplicación de Tareas",
+    "titulo": 1,
+    "estado": "cambiadotitulo1"
+  },
+  {
+    "titulo": 2,
+    "estado": "estaEsLaTarea2"
+  },
+  {
+    "titulo": 3,
+    "estado": "titulo 3"
+  },
+  {
+    "titulo": 5,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": 6,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": 7,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": 8,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": 9,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": 10,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": 11,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": 12,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": 13,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": 14,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": 15,
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "2",
     "estado": "pendiente"
   }
 ]
